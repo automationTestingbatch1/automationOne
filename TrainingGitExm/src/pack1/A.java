@@ -9,4 +9,9 @@ public class A {
  public void m2() {
 	 System.out.println(1+1);
  }
+ 
+ public void m3() {
+		System.out.println(11+330);
+		
+	}
 }
