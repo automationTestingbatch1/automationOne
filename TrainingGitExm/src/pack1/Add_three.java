@@ -11,5 +11,7 @@ public class Add_three {
 	 
 
 	}
-
+public void add() {
+	System.out.println();
+}
 }
